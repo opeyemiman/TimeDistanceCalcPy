@@ -19,9 +19,12 @@ These Kinematics equations relate an object's displacement, s, initial velocity 
 *Statistical summary and export of results as CSV.<br>
 
 
-# Accessing Downloads 
-*Accessible downloads at <br>
-[(https://hub.2i2c.mybinder.org/user/opeyemiman-ogop--calculator-web-5x4rwpzc/lab)]
+# Accessing Binder File System
+To access main directory and file system of the binder, first note the Binder URL. it may change but it would be of the form 
+[(https://hub.2i2c.mybinder.org/user/opeyemiman-ogop--calculator-web-pmp0cv3y/voila/render/Time-Distance-Calculator_Web.ipynb?token=_tulAeDyRo2mcGsQVn4dow)]
+Most of that URL stays the same, except the token, which is generated as the notebook is initiated. 
+To access file system, cut off the URL! at the "/" before "voila". Enter the shortened link, which would look like below and you will be dredirected to the file system.
+[(https://hub.2i2c.mybinder.org/user/opeyemiman-ogop--calculator-web-pmp0cv3y)]
 
 
 
