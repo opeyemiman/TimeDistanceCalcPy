@@ -1,9 +1,11 @@
-# Homepage Binder
+# Binders
+
+## Homepage and file access
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opeyemiman/OGOP-Time-Distance-Calculator-Web/main)
 
 
 
-# Main Notebook Binder
+## Main Notebook
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opeyemiman/OGOP-Time-Distance-Calculator-Web/main?urlpath=voila%2Frender%2FTime-Distance-Calculator_Web.ipynb)
 
 
@@ -27,7 +29,7 @@ These Kinematics equations relate an object's displacement, s, initial velocity 
 *Statistical summary and export of results as CSV.<br>
 
 
-# Accessing Binder File System
+# Alternative way to access Binder File System
 To access main directory and file system of the binder, first note the Binder URL. it may change but it would be of the form 
 [(https://hub.2i2c.mybinder.org/user/opeyemiman-ogop--calculator-web-pmp0cv3y/voila/render/Time-Distance-Calculator_Web.ipynb?token=_tulAeDyRo2mcGsQVn4dow)]
 Most of that URL stays the same, except the token, which is generated as the notebook is initiated. 
