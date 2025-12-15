@@ -1,4 +1,4 @@
-# Binders
+# Binders (Incognito Recommended)
 
 ## Homepage and file access
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opeyemiman/OGOP-Time-Distance-Calculator-Web/main)
