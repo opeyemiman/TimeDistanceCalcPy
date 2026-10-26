@@ -6,7 +6,7 @@
 
 
 ## Main Notebook
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opeyemiman/TimeDistanceCalcPy/main?urlpath=voila%2Frender%2FTime-Distance-Calculator_Web.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opeyemiman/TimeDistanceCalcPy/main?urlpath=voila%2Frender%2FTimeDistanceCalc.ipynb)
 
 
 # TimeDistanceCalcPy
