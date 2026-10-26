@@ -1,15 +1,15 @@
 # Binders (Incognito Recommended)
 
 ## Homepage and file access
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opeyemiman/OGOP-Time-Distance-Calculator-Web/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opeyemiman/TimeDistanceCalcPy/main)
 
 
 
 ## Main Notebook
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opeyemiman/OGOP-Time-Distance-Calculator-Web/main?urlpath=voila%2Frender%2FTime-Distance-Calculator_Web.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opeyemiman/TimeDistanceCalcPy/main?urlpath=voila%2Frender%2FTime-Distance-Calculator_Web.ipynb)
 
 
-# OGOP-Time-Distance-Calculator
+# TimeDistanceCalcPy
 For Newton’s equations of motion with constant acceleration, given 3 of 5 variables (V,U,A,T,S), this calculator solves for the remaining 2. 
 
 
